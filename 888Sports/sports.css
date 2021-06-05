@@ -1,0 +1,137 @@
+/* body, html {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    font-family: "888regular",Arial,sans-serif;
+}
+
+html body {
+    background: #111!important;
+}
+
+body {
+    overflow: auto;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+
+html {
+    box-sizing: border-box;
+    position: relative;
+    overflow: hidden;
+    line-height: 1.15;
+    display: block;
+}
+
+.wide-screen .headerWrapper {
+    height: 50px;
+    padding: 0 10px 0 220px;
+}
+
+.headerWrapper {
+    z-index: 13;
+    top: 0;
+    right: 0;
+    left: 0;
+    transition: background .3s ease-in-out;
+    background: #000;
+    position: fixed;
+}
+
+.wide-screen .headerRightCTA {
+    height: 50px;
+}
+
+.headerRightCTA {
+    float: right;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.headerCrossSale a {
+    width: 32px;
+    margin: 0 10px 0 0;
+    height: 36px;
+    vertical-align: middle;
+    display: inline-block;
+    cursor: pointer;
+    fill: #6c6c6c;
+    transition: fill .3s ease-in-out;
+}
+
+#ab{
+    border-radius: 18px;
+    margin-left: 10px;
+}
+
+
+
+.wide-screen .aClogoBox {
+    width: 190px!important;
+    height: 50px;
+}
+
+.ucf_pc .aClogoBox {
+    background-color: #fc6200;
+    position: fixed;
+    z-index: 15;
+    padding-top: 2px;
+    top: 0;
+    left: 0;
+}
+
+.logoSVG {
+    height: 100%;
+    fill: #fff;
+    width: 50px;
+    margin: 0 auto;
+    display: block;
+}
+
+.App {
+    text-align: center;
+}
+
+.flex{
+    display: flex;
+    flex-direction: column;
+    margin-right: 12px;
+}
+
+.custom-span{
+    border: 1px solid #eee;
+    border-radius: 20px;
+    font-size: 21px;
+    margin-left: 8px;
+    padding: 3px;
+}
+
+.l {
+    display: grid;
+    grid-template-columns: minmax(0,1fr) minmax(0,320px);
+    grid-template-areas: "content sidebar";
+    grid-gap: 10px;
+}
+
+.l__content {
+    grid-area: content;
+}
+
+.h1-bar .h1-bar__title {
+    font-weight: 500;
+    background-color: #000;
+    font-size: 14px;
+    padding: 10px;
+    text-transform: uppercase;
+    color: #fc6200;
+}
+
+.bb-breadcrumbs-container {
+    overflow: hidden;
+} */
+
